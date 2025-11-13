@@ -1,0 +1,31 @@
+# General
+.DS_Store
+.env
+.env.*
+*.log
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.pytest_cache/
+.coverage*
+htmlcov/
+
+# Editors/OS
+*.swp
+.idea/
+.vscode/
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# Node/React build
+.next/
+.cache/
+dist/
+build/
+coverage/
